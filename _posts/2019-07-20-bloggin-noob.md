@@ -12,7 +12,7 @@ tags: [helloWorld, firstPost]
 
 > **Hello world**, this is my first Jekyll blog post
 
-![alt text](/assets/images/hello-world.jpg)
+![hello world](/assets/images/hello-world.jpg)
 
 This very sentence is already written in Jekyll's documentation and I think this says it all. For a long time I've been thinking about starting a blog of my own but I was a bit afraid to do so. I even started on the famous platform [blogger](https://www.blogger.com) during my university days but I couldn't keep up to create healthy content due to the consistent work load but here I'm again with a fresh start as they say:
 
