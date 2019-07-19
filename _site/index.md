@@ -9,14 +9,13 @@ This is my fuel to always stay hungry for knowledge. I'm curious about things, I
 * * *
 
 {% for post in site.posts %}
-<div class="post-holder">
-	<div class="post-left col-8">
+<div class="post-holder flex mb-10">
+	<div class="post-left w-3/4 pr-5">
 		<h3>{{post.title}}</h3>
 		<p>{{post.excerpt}}</p>
 		<p> Posted on Dec 13, 2018 - 1 min Read </p>
 	</div>
-	<div class="post-right col-4">
-		<img src="{{ post.image }}" title="{{ post.title }}" alt="{{ post.title }}" />
-	</div>
+	<a class="block w-1/4 bg-cover bg-center bg-no-repeat" style="background-image: url('{{ post.image }}')">
+	</a>
 </div>
 {% endfor %}
