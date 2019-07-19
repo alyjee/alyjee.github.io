@@ -8,7 +8,7 @@
 }
 
 .mb-10 {
-    margin-bottom: 2.5rem;
+    margin-bottom: 1.0rem;
 }
 
 .pr-5 {
@@ -31,10 +31,22 @@
     background-size: cover;
 }
 
+.bg-contain {
+    background-size: contain;
+}
+
 .bg-no-repeat {
     background-repeat: no-repeat;
 }
 
 .bg-center {
     background-position: 50%;
+}
+
+.post-left h3 {
+    margin: 0 0 7px;
+}
+
+.post-left p {
+    margin: 0 0 3px;
 }
