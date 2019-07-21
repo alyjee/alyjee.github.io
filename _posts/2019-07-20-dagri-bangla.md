@@ -3,7 +3,7 @@ layout: post
 title:  "Dagri Bangla! - From Mountains Top to the Depths of Forest"
 author:  "Tahir R."
 image: /assets/images/dagri-bangla.jpg
-time: 1
+time: 7
 categories: [travel]
 tags: [adventure, forest, mountains, valley, camping, miranjani, dagri]
 ---
@@ -41,6 +41,8 @@ So as I've mentioned above there are two options to get to complete this trip, w
  - Trekking from this side takes more time, but it's not as steep as the compared to the Miranjani track.
 
 So I'll try to explain the second itinerary with enough details so everyone can follow.
+
+![hello world](/assets/images/dagri-itinerary.png)
 
  1. Start from Lahore, pack your bags, throw'em in the box you hired to this tour, in our case it was a high roof Hiace by Toyota.
  2. Short stay at Bhera Service Area, Lahore-Islamabad Motorway, Bhera, Sargodha, Punjab, Pakistan.
