@@ -50,3 +50,68 @@
 .post-left p {
     margin: 0 0 3px;
 }
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+.py-10 {
+    padding-top: 2.5rem;
+    padding-bottom: 2.5rem;
+}
+.mt-10 {
+    margin-top: 2.5rem;
+}
+.items-center {
+    align-items: center;
+}
+.flex {
+    display: flex;
+}
+.border-t {
+    border-top-width: 1px;
+}
+
+.border-b {
+    border-bottom-width: 1px;
+}
+
+.border-dashed {
+    border-style: dashed;
+}
+.border-border {
+    border-color: rgba(0,0,0,.1);
+}
+
+.w-32 {
+    width: 8rem;
+}
+
+.rounded-full {
+    border-radius: 9999px;
+}
+
+.pl-5 {
+    padding-left: 1.25rem;
+}
+
+.leading-loose {
+    line-height: 2;
+}
+
+.font-bold {
+    font-weight: 700;
+}
+
+.text-sm {
+    font-size: .875rem;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.border-none-lr {
+    border-left: none;
+    border-right: none;    
+}
