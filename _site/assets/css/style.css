@@ -271,3 +271,10 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 .border-none-lr { border-left: none; border-right: none; }
 
 .icons-holder img { width: 25px; }
+
+.show-sm { display: none; }
+
+/* On screens that are 768px or less, set the background color to olive */
+@media screen and (max-width: 768px) { .show-sm { display: block; }
+  .hide-sm { display: none; }
+  .w-3\/4 { width: 100%; } }

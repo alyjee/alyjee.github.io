@@ -12,10 +12,12 @@ This is my fuel to always stay hungry for knowledge. I'm curious about things, I
 <div class="post-holder flex mb-10">
 	<div class="post-left w-3/4 pr-5">
 		<h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+		<a href="{{ post.url }}" class="show-sm bg-center bg-no-repeat" title="{{ post.title }}" style="background-image: url('{{ post.image }}'); width: 100%; height: 100px; ">
+		</a>
 		<p>{{ post.excerpt }}</p>
 		<p> Posted on {{ post.date | date: "%b %-d, %Y" }} - {{ post.time }} min Read </p>
 	</div>
-	<a href="{{ post.url }}" class="block w-1/4 bg-contain bg-center bg-no-repeat" style="background-image: url('{{ post.image }}')">
+	<a href="{{ post.url }}" class="block hide-sm w-1/4 bg-contain bg-center bg-no-repeat" style="background-image: url('{{ post.image }}')">
 	</a>
 </div>
 
