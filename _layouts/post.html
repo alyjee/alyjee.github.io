@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: fluid
 ---
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<small>Posted on {{ page.date | date: "%-d %B %Y" }} in <a href="#" class="capitalize">{{ page.categories[0] }}</a></small>
 <h1>{{ page.title }}</h1>
 
 <p class="view">by {{ page.author | default: site.author }}</p>
@@ -12,3 +12,18 @@ layout: default
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
+
+
+<div class="mt-10 py-10 flex items-center border-dashed border-t border-border border-b border-none-lr text-left">
+    <div class="w-32">
+        <img src="https://media.licdn.com/dms/image/C4E03AQGkyseY5H77nQ/profile-displayphoto-shrink_200_200/0?e=1569456000&v=beta&t=qzx4G7C-krMU8X1raK7p35ka4kA6YHUZEn_nqLcqIhc" class="rounded-full">
+    </div>
+    <div class="pl-5 leading-loose">
+        By <span class="font-bold">{{ page.author }}</span>
+        <div class="text-sm">
+        	<p>
+        		I work at <a href="https://www.zameen.com/" target="_blank">zameen.com</a> on weekdays and read about latest tech trends, AI, &amp; do some blogging on weekends. Find me on <a href="https://twitter.com/tahirraza_se" target="_blank">Twitter</a>, <a href="https://github.com/alyjee" target="_blank">GitHub</a>, and <a href="https://stackoverflow.com/users/5436736/tahir-raza" target="_blank">Stackoverflow</a>.
+        	</p>
+        </div>
+    </div>
+</div>
