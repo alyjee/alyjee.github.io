@@ -2,3 +2,6 @@ theme: jekyll-theme-minimal
 
 title: Tahir Raza's Journal
 description: [Web Developer | Learner | Magsman | Avid Traveller | Father]
+
+plugins:
+  - jekyll-seo-tag
