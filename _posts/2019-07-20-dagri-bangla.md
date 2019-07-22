@@ -59,7 +59,7 @@ That's about it.
 ## Forest
 Dagri forest is a thick, virgin forest, not many people go there, that's why the forest is preserved in its natural shape. You can find most of the information on wiki but I'm gonna describe a few things in here which are not listed on wiki. 
 
-![hello world](/assets/images/dagri-forest.jpg)
+![dagri-forest](/assets/images/dagri-forest.jpg)
 
 When you start trekking from Thandiani, you just keep on going down until you reach a small, really small town in [Beeran-Gali](https://en.wikipedia.org/wiki/Beeran_Gali), which is in my opinion the last part of the track which has some houses and there's also a shop there from where you can buy some basic stuff, we also bought a nail-cutter from there :P.
 
@@ -70,13 +70,17 @@ You'll also find some other animals like fox, porcupine and may be monkeys, and 
 ## Track Insights
 As far as the track of this tour is concerned, I would say it's good, really close to nature, cool weather during hot summers of Pakistan, and you'll find some awesome sceneries while trekking.
 
-![hello world](/assets/images/dagri-bangla-track.jpg)
+![dagri-bangla-track](/assets/images/dagri-bangla-track.jpg)
 
 You'll find a few really beautiful meadows along your way, from which the one near Miranjani top is my personal favorite.
 
 From the aspect of the length of this track I would say only a bit above average people can complete it easily but you don't have to take my words for it, if you are a bit weak physically but carrying a really strong will with, no mountain or track can stop you from being on top, as my dear friend Saif-ur-Rehman said on this track to me
 
 > It's not the legs which conquer the track, it's your will! - Saif ur Rehman
+
+![dagri-bangla-track](/assets/images/dagri-track-day-1-13-july-2019.jpg)
+
+![dagri-bangla-track](/assets/images/dagri-track-day-2-14-july-2019.jpg)
 
 So be fit, be strong from the inside and you'll be just fine.
 
