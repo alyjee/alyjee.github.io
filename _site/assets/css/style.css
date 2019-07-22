@@ -269,3 +269,5 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
 .text-left { text-align: left; }
 
 .border-none-lr { border-left: none; border-right: none; }
+
+.icons-holder img { width: 25px; }

@@ -3,5 +3,13 @@ theme: jekyll-theme-minimal
 title: Tahir Raza's Journal
 description: [Web Developer | Learner | Magsman | Avid Traveller | Father]
 
+email: tahirraza.se@gmail.com
+phone: +92-306-678-1409
+
+linkedinurl: https://pk.linkedin.com/in/tahir-raza-38a75596
+githurl: https://github.com/alyjee
+twitterurl: https://twitter.com/tahirraza_se
+stackoverflowurl: https://stackoverflow.com/users/5436736/tahir-raza
+
 plugins:
   - jekyll-seo-tag
