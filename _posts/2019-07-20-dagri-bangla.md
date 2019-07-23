@@ -78,9 +78,16 @@ From the aspect of the length of this track I would say only a bit above average
 
 > It's not the legs which conquer the track, it's your will! - Saif ur Rehman
 
-![dagri-bangla-track](/assets/images/dagri-track-day-1-13-july-2019.jpg)
-
-![dagri-bangla-track](/assets/images/dagri-track-day-2-14-july-2019.jpg)
+<div class="container">
+	<div class="col-6 text-center border-1pt mr-5">
+		<h3 class="mr-5">Day 01</h3>
+		<img src="{{ '/assets/images/dagri-track-day-1-13-july-2019.jpg' }}" title="Dagri Track Day-01 13-july-2019" alt="dagri-track-day-1-13-july-2019.jpg" />
+	</div>
+	<div class="col-6 text-center border-1pt mr-5">
+		<h3 class="mr-5">Day 02</h3>
+		<img src="{{ '/assets/images/dagri-track-day-2-14-july-2019.jpg' }}" title="Dagri Track Day-02 14-july-2019" alt="dagri-track-day-2-14-july-2019.jpg" />
+	</div>
+</div>
 
 So be fit, be strong from the inside and you'll be just fine.
 
