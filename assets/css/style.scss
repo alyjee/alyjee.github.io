@@ -124,6 +124,10 @@
     display: none;
 }
 
+.section {
+    border: none;
+}
+
 /* On screens that are 768px or less, set the background color to olive */
 @media screen and (max-width: 768px) {
   .show-sm {
@@ -138,3 +142,29 @@
     width: 100%;
   }
 }
+
+/********Bootstrap Like Styles with CSS Grids*********/
+.container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+}
+
+.col-6 {
+    grid-column: span 6;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.text-center {
+    text-align: center;
+}
+
+.border-1pt {
+    border: 1px solid #ededed;
+}
+
+.mr-5 {
+    margin: 5px;
+}
+/********Bootstrap Like Styles with CSS Grids*********/
