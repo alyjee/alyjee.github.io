@@ -11,5 +11,7 @@ githurl: https://github.com/alyjee
 twitterurl: https://twitter.com/tahirraza_se
 stackoverflowurl: https://stackoverflow.com/users/5436736/tahir-raza
 
+google_analytics: UA-144488030-1
+
 plugins:
   - jekyll-seo-tag
