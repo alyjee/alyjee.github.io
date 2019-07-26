@@ -282,14 +282,20 @@ footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-
   .hide-sm { display: none; }
   .w-3\/4 { width: 100%; } }
 /********Bootstrap Like Styles with CSS Grids*********/
-.container { display: grid; grid-template-columns: repeat(12, 1fr); }
+.container { display: grid; grid-template-columns: repeat(12, 1fr); margin: 0 0 20px; }
 
-.col-6 { grid-column: span 6; padding-left: 15px; padding-right: 15px; }
+pad-lr-15 { padding-left: 15px; padding-right: 15px; }
+
+.col-6 { grid-column: span 6; }
+
+.col-4 { grid-column: span 4; }
 
 .text-center { text-align: center; }
 
 .border-1pt { border: 1px solid #ededed; }
 
 .mr-5 { margin: 5px; }
+
+p img { text-align: center; }
 
 /********Bootstrap Like Styles with CSS Grids*********/
