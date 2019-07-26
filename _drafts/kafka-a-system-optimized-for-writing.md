@@ -14,7 +14,7 @@ Apache KAFKA is an open-source stream-processing software platform developed by 
 
 ## Meet The Team Who Built The Dream
 
-There are almost 30 people's in the team who have built KAFKA uptil now and they are listed as commiter on Apache KAFKA's commiters list. Visit this link to have a  look at the awesome people.
+There are almost 30 people's in the team who have built KAFKA uptil now and they are listed as commiters on Apache KAFKA's commiters list. Visit this link to have a  look at the awesome people.
 
 [Apache KAFKA Commiters](https://kafka.apache.org/committers)
 
@@ -43,12 +43,15 @@ The reason is, these are the three people who created a new company named [Confl
 
 ## Man Behind The Name
 
-So one might think what's with this name "KAFKA", why the tool is named like this. When asked on quora on March 2014, Jay Kreps replied that it's named after a German-speaking Bohemian novelist and short-story writer, [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka), and Jay also liked the writer during his college. You can read the [complete reply Quora](https://qr.ae/TWvX3b). And who doesn't like a exiciting, unique name like this for an open-source project. So I think it's enough for the introduction let's get to the technical stuff.
+So one might think what's with this name "KAFKA", why the tool is named like this. When asked on quora on March 2014, Jay Kreps replied that it's named after a German-speaking Bohemian novelist and short-story writer, [Franz Kafka](https://en.wikipedia.org/wiki/Franz_Kafka), and Jay also added that he liked the writer during his college.
+
 <div class="text-center">
 	<p>
 		<img src="{{ '/assets/images/franz-kafka.jpg' }}" title="Franz Kafka - Novelist" alt="franz-kafka.jpg" />
 	</p>
 </div>
+
+You can read the [complete reply on Quora](https://qr.ae/TWvX3b). And who doesn't like an exiciting, unique name like this for an open-source project. I think it's enough for the introduction let's dive deeper.
 
 ![jay kreps reply on quora march 2014](/assets/images/jay-kreps-reply-on-quora-march-2014.png "Jay Kreps Reply On Quora")
 
