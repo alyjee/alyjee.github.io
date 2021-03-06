@@ -1,4 +1,3 @@
-## Hey there!
 
 This is me Tahir from Pakistan and I'm a Software Engineer by profession for over 5 years, in my spare times you will find me reading about latest trends, helping people on [Stackoverflow](https://stackoverflow.com/users/5436736/tahir-raza) or solving code challanges at [Hacker Rank](https://www.hackerrank.com/tahirraza_se), or if I'm lucky enough you'll see me in the mountains.
 
