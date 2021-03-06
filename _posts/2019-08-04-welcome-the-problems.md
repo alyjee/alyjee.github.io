@@ -4,7 +4,7 @@ title:  "Welcome the Problems"
 author:  "Tahir R."
 image: /assets/images/welcome-the-problems.jpg
 time: 1
-categories: [software, engineering, tech]
+categories: [software-engineering, tech]
 tags: [problems, solutions, opensource]
 ---
 
