@@ -7,7 +7,7 @@ time: 1
 categories: [thoughts]
 tags: [interview, tips]
 ---
-As far as I can tell, after 5 years of experience in the field and appearing in numerous interviews with a number of great organizations, interviewing is an art.
+As far as I can tell, after a few years of experience in the field and appearing in numerous interviews with a number of great organizations, interviewing is an art. How many of you actually have realised that when someone interview's an artist, actor or a businessman it's actually the same when some recruiter interviews you for a job. They just want to know you better!
 
 ![the-art-of-interviewing](/assets/images/the-art-of-interviewing.jpg)
 
