@@ -27,7 +27,7 @@ You know we always get these quotes, talks and motivational speeches where peopl
 Here in this blog, I am sharing some of my personal experiences which I believe are helping me to be a better person.
 
 
-- Sharing is caring - but not actually just caring it actually enhances your knowledge, skills both - like sanjin helps me in Frontend, victor in design patterns, alex is management skills.
+- Sharing is caring - but not actually just caring it actually enhances your knowledge, skills both and helps you grow as a person.
 
 
 - Always, always find ways to make your job easier, does not matter how tiny something is it will make a huge difference in your performance. For example, just adding a bookmark to frequently visited links will have a huge impact on your overall developer experience.
