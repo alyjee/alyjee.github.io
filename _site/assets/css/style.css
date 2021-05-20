@@ -298,6 +298,6 @@ pad-lr-15 { padding-left: 15px; padding-right: 15px; }
 
 .mr-5 { margin: 5px; }
 
-p img { text-align: center; }
+p img { text-align: center; width: 100%; }
 
 /********Bootstrap Like Styles with CSS Grids*********/
